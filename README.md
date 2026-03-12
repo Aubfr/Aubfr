@@ -18,7 +18,7 @@ I'm Aub, a beginner developer from France.
                                                                   '  `+.;  ;  '      :  
                                                                   :  '  |    ;       ;-.
                                                                   ; '   : :`-:     _.`* ;
-                                                         [brindille] .*' /  .*' ; .*`- +'  `*'
+                                                    [brindille] .*' /  .*' ; .*`- +'  `*'
                                                                `*-*   `*-*  `*-*'       
 
 
